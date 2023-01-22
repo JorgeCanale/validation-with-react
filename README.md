@@ -10,11 +10,11 @@
   
   ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/campos-incorrectos.jpeg)
   
-  <h3> Al completar los campos correctamente se resalta el input en verde y aparece un icono </h3>
+  <h3> Al completar un campo correctamente aparece un icono para indicarlo </h3>
 
   ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/campos-completados-correctamente.jpeg)
   
-  <h3> Al enviar el formulario correctamente aparece una leyenda que indica esto mismo </h3> 
+  <h3> Al enviar el formulario correctamente aparece una leyenda para indicarlo </h3> 
   
   ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/formulario-enviado-con-exito.jpeg)
 
