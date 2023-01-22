@@ -12,7 +12,7 @@
   
   <h3> Al completar los campos correctamente se resalta el input en verde y aparece un icono </h3>
 
-  ![]([https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/formulario-enviado-con-exito.jpeg](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/campos-completados-correctamente.jpeg)
+  ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/campos-completados-correctamente.jpeg)
   
   <h3> Al enviar el formulario correctamente aparece una leyenda que indica esto mismo </h3> 
   
