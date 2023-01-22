@@ -18,3 +18,9 @@
   
   ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/formulario-enviado-con-exito.jpeg)
 
+Descripción tecnica:
+
+este mini proyecto me encargue de hacer un formulario de registro con validaciones cada uno de sus inputs, el proyecto esta hecho con javascript, reactjs, style components y html.
+
+ 
+ 
