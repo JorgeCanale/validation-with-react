@@ -1,4 +1,5 @@
 <h1> Validaciones con react </h1>
+  <p> Formulario de registro con validaciones </p>
 
 ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/formulario.jpeg)
 
