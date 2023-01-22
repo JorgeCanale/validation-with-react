@@ -81,7 +81,7 @@ const onSubmit = (e) =>{
        setState={setUser}
        type="text"
        label="Usuario"
-       placeholder="marcos1234"
+       placeholder="Ingrese su usuario"
        name="usuario" 
        legenderror={legends.user}
        expresionregular={expresiones.user}
@@ -92,7 +92,7 @@ const onSubmit = (e) =>{
        setState={setName}
        type="text"
        label="Name"
-       placeholder="marcos m"
+       placeholder="Ingrese su nombre"
        name="name" 
        legenderror={legends.name}
        expresionregular={expresiones.name}
@@ -102,7 +102,7 @@ const onSubmit = (e) =>{
        setState={setPassword}
        type="password"
        label="password"
-       placeholder="constraseña..."
+       placeholder="ingrese su contraseña"
        name="password" 
        legenderror={legends.password}
        expresionregular={expresiones.password}
@@ -111,7 +111,7 @@ const onSubmit = (e) =>{
        state={password2}
        setState={setPassword2}
        type="password"
-       label="password2"
+       label="password"
        placeholder="vuelve a ingresar tu contraseña"
        name="password2" 
        legenderror={legends.password2}
