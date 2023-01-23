@@ -25,6 +25,6 @@
 Descripción tecnica:
 
 este mini proyecto me encargue de hacer un formulario de registro con validaciones cada uno de sus inputs, el proyecto esta hecho con javascript, reactjs, style components y html.
-
+el objetivo de este proyecto era practicar valdiaciones a un nivel basico, asi tambien adquirir algo de experiencia con styled-components 
  
  
