@@ -18,7 +18,7 @@
   
   ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/formulario-enviado-con-exito.jpeg)
   
-  <h3> aqui un video mostrando el fomrulario en funcionamiento </h3>
+  <h3> Aquí un video mostrando el formulario </h3>
   
   https://youtu.be/88xBFOEAoDY
 
