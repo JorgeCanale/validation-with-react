@@ -17,6 +17,10 @@
   <h3> Al enviar el formulario correctamente aparece una leyenda para indicarlo </h3> 
   
   ![](https://github.com/JorgeCanale/validation-with-react/blob/main/public/screenshots/formulario-enviado-con-exito.jpeg)
+  
+  <h3> aqui un video mostrando el fomrulario en funcionamiento </h3>
+  
+  https://youtu.be/88xBFOEAoDY
 
 Descripción tecnica:
 
